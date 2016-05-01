@@ -1,0 +1,74 @@
+Komendantskiy_pr                70 370 0
+Staraya_Derevnya        	70 360 1
+Krestovskiy_Ostrov     		70 350 2
+Chkalovskaya            	70 340 3
+Sportivnaya             	70 330 4
+Admiralteiskaya			70 240 5
+Sadovaya			85 210 6
+Zvenigorodskaya	   	     102.5 175 7
+Obvodniy_canal	      	       115 150 8
+Volkovskaya	               129 122 9
+Buharestskaya	               143 94  10
+Mezhdunarodnaya	               157 66  11
+
+Primorskaya			55 310 12
+Vasileostrovskaya		55 300 13
+ 
+Gostiniy_dvor			85 250 14
+Mayakovskaya		       140 250 15
+ 
+Pl_A_Nevskogo_1                230 220 16
+Elizarovskaya		       230 200 17
+Lomonosovskaya		       230 190 18
+Proletarskaya                  230 180 19
+Obuhovo			       230 170 20
+Ribackoye		       230 160 21
+
+Spasskaya			85 220 22
+Dostoevkaya	       	       125 220 23
+Ligovskiy_pr     	       180 220 24
+
+Pl_A_Nevskogo_2       	       230 210 25
+Novocherkasskaya      	       250 190 26
+Ladozhskaya	       	       250 180 27
+Pr_Bolshevikov      	       250 170 28
+Ulitsa_Dibenko         	       250 160 29
+
+Parnas			        85 370 30 
+Pr_Prosveshcheniya              85 360 31 
+Ozerki  		        85 350 32 
+Udelnaya 	            	85 340 33 
+Pionerskaya		    	85 330 34 
+Chernaya_rechka              	85 320 35
+Petrogradkaya		    	85 310 36
+Gorkovskaya		    	85 300 37
+Nevskiy_pr		    	85 260 38
+Sennaya_pl             	        85 230 39
+Technologicheskiy_institut_2  	85 140 40
+Frunzenskaya		    	85 130 41
+Mosk_vorota		    	85 120 42
+Electrosila                 	85 110 43 
+Park_Pobedy                 	85 100 44
+Moskovskaya                 	85 90  45
+Zvezdnaya	            	85 80  46
+Kupchino                    	85 70  47
+
+Devyatkino		       140 370 48
+Grazhd_pr		       140 360 49
+Akademicheskaya		       140 350 50
+Politechnicheskaya             140 340 51
+Pl_Muzhestva	       	       140 330 52
+Lesnaya			       140 320 53 
+Vyborgskaya		       140 310 54 
+Pl_Lenina		       140 300 55
+Chernyshevskaya		       140 290 56
+Pl_Vostaniya	               140 260 57
+Vladimirskaya		       125 230 58
+Pushkinskaya	             102.5 185 59
+Technologicheskiy_institut_1    85 150 60
+Balt			        70 120 61
+Narvkaya		        70 110 62
+Kirovskiy_zavod		        70 100 63
+Avtovo			        70 90  64
+Leninskiy_pr	        	70 80  65 
+Pr_Veteranov 	        	70 70  66
